@@ -1,7 +1,7 @@
 
 function replaceImage() {
     var giftImage = document.getElementById('giftImage');
-    giftImage.src = 'images/squash.jpg';
+    giftImage.src = 'squash.jpg';
 }
 
 function showPopup() {
